@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Иванченко\game1\obj\Debug\net6.0\game1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Иванченко\game1\obj\Debug\net6.0\game1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Иванченко\game1\obj\Debug\net6.0\game1.AssemblyInfo.cs
+C:\Users\user\Desktop\Иванченко\game1\obj\Debug\net6.0\game1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Иванченко\game1\bin\Debug\net6.0\game1.exe
+C:\Users\user\Desktop\Иванченко\game1\bin\Debug\net6.0\game1.deps.json
+C:\Users\user\Desktop\Иванченко\game1\bin\Debug\net6.0\game1.runtimeconfig.json
+C:\Users\user\Desktop\Иванченко\game1\bin\Debug\net6.0\game1.dll
+C:\Users\user\Desktop\Иванченко\game1\bin\Debug\net6.0\game1.pdb
+C:\Users\user\Desktop\Иванченко\game1\obj\Debug\net6.0\game1.dll
+C:\Users\user\Desktop\Иванченко\game1\obj\Debug\net6.0\refint\game1.dll
+C:\Users\user\Desktop\Иванченко\game1\obj\Debug\net6.0\game1.pdb
+C:\Users\user\Desktop\Иванченко\game1\obj\Debug\net6.0\game1.genruntimeconfig.cache
+C:\Users\user\Desktop\Иванченко\game1\obj\Debug\net6.0\ref\game1.dll
